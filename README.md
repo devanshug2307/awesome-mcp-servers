@@ -480,6 +480,8 @@ Top 20 of 170 Search & Web servers, ranked by popularity on mcp.directory. [View
 
 mcp.directory also indexes **8,681 skills** — [Claude Code Skills](https://mcp.directory/skills), [Anthropic Agent Skills](https://mcp.directory/skills), and [Cursor Rules](https://mcp.directory/skills) — system prompts and instructions that shape how AI assistants work on your codebase.
 
+> Looking for a **dedicated skills repo**? See the companion list **[awesome-claude-skills →](https://github.com/devanshug2307/awesome-claude-skills)** — same auto-update pattern, just for skills.
+
 ### Top 10 skills
 
 | Skill | Description | Author |
