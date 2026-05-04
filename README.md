@@ -6,9 +6,55 @@
 
 # Awesome MCP Servers
 
+[![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
+[![Stars](https://img.shields.io/github/stars/devanshug2307/awesome-mcp-servers?style=social)](https://github.com/devanshug2307/awesome-mcp-servers)
+[![Servers](https://img.shields.io/badge/servers-2%2C000%2B-blue)](https://mcp.directory)
+[![Skills](https://img.shields.io/badge/skills-8%2C600%2B-purple)](https://mcp.directory/skills)
+[![Last update](https://img.shields.io/github/last-commit/devanshug2307/awesome-mcp-servers?label=updated)](https://github.com/devanshug2307/awesome-mcp-servers/commits/main)
+[![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
+
 > 2,000+ Model Context Protocol servers for Claude, Cursor, Claude Code, and any MCP client. Auto-updated weekly from [mcp.directory](https://mcp.directory).
 
 [**Visit mcp.directory →**](https://mcp.directory) for the searchable interface, one-click install configs, tool inspectors, and skill cookbooks.
+
+## What is MCP?
+
+The **[Model Context Protocol](https://modelcontextprotocol.io)** is an open standard from Anthropic that lets AI assistants — Claude, Cursor, Claude Code, ChatGPT, and any MCP-compatible client — connect to your tools, files, and APIs through a single shared interface. Instead of writing one integration per assistant, you ship one MCP server and every client can use it.
+
+You can use MCP servers to give your AI access to your [databases](https://mcp.directory/categories/databases), your [browser](https://mcp.directory/categories/browser-automation), your [Slack workspace](https://mcp.directory/servers/slack), [internal APIs](https://mcp.directory/categories/developer-tools), [cloud accounts](https://mcp.directory/categories/cloud-infrastructure), or [filesystems](https://mcp.directory/categories/file-systems). Browse all 2,002 servers on **[mcp.directory →](https://mcp.directory)**, or read [setup guides](https://mcp.directory/clients) for your client.
+
+## Featured servers
+
+The most-installed MCP servers across mcp.directory. Updated weekly.
+
+- **[Atlassian (Jira & Confluence)](https://mcp.directory/servers/atlassian-jira-confluence)** — Atlassian's official remote MCP server. Securely connects Jira and Confluence to Claude, Cursor, or any MCP client. OAut _(15,822 ★ · 16 tools · TypeScript)_
+- **[Context7](https://mcp.directory/servers/context7)** — Boost your AI code assistant with Context7: inject real-time API documentation from OpenAPI specification sources into y _(14,976 ★ · 2 tools · TypeScript)_
+- **[Sequential Thinking](https://mcp.directory/servers/sequential-thinking)** — Break down complex problems with Sequential Thinking, a structured tool and step by step math solver for dynamic, reflec _(7,434 ★ · 1 tools · TypeScript)_
+- **[DuckDuckGo](https://mcp.directory/servers/duckduckgo)** — Integrate DuckDuckGo web search into your site with our MCP server, supporting features like Google custom search and ro _(4,028 ★ · 1 tools · TypeScript)_
+- **[Playwright Browser Automation](https://mcp.directory/servers/playwright-browser-automation)** — Enhance software testing with Playwright MCP: Fast, reliable browser automation, an innovative alternative to Selenium s _(7,331 ★ · 22 tools · TypeScript)_
+- **[HashiCorp Terraform](https://mcp.directory/servers/hashicorp-terraform)** — Official HashiCorp Terraform MCP server. Real-time access to provider documentation, module specifications, and Sentinel _(13,608 ★ · 16 tools · TypeScript)_
+- **[Bright Data](https://mcp.directory/servers/bright-data)** — Official Bright Data MCP server. Web scraping, SERP data collection, and browser automation via Bright Data's proxy netw _(9,895 ★ · 15 tools · TypeScript)_
+- **[Mem0](https://mcp.directory/servers/mem0)** — Official Mem0 MCP server. Give AI assistants persistent memory — store, retrieve, and semantically search user preferenc _(8,399 ★ · 16 tools · TypeScript)_
+- **[E2B Sandboxes](https://mcp.directory/servers/e2b-sandboxes)** — Official E2B MCP server for secure, sandboxed code execution. Run Python and JavaScript in isolated cloud sandboxes with _(6,990 ★ · 16 tools · TypeScript)_
+- **[Tableau MCP](https://mcp.directory/servers/tableau-mcp)** — Tableau's official MCP server. Gives AI agents access to Tableau's VizQL Data Service, Metadata API, and other Tableau A _(6,292 ★ · 16 tools · TypeScript)_
+
+**[See the full ranked list of 2,002+ servers →](https://mcp.directory)**
+
+## MCP clients & setup guides
+
+Pick your AI assistant and follow the deep-dive setup guide:
+
+| | Client | Guide |
+|---|---|---|
+| <img src="https://mcp.directory/clients/claude.png" width="32" alt="Claude Desktop" /> | **Claude Desktop** | [Setup guide →](https://mcp.directory/clients/claude-desktop) |
+| <img src="https://mcp.directory/clients/claude-code.png" width="32" alt="Claude Code" /> | **Claude Code** | [Setup guide →](https://mcp.directory/clients/claude-code) |
+| <img src="https://mcp.directory/clients/cursor.png" width="32" alt="Cursor" /> | **Cursor** | [Setup guide →](https://mcp.directory/clients/cursor) |
+| <img src="https://mcp.directory/clients/vscode.png" width="32" alt="VS Code" /> | **VS Code** | [Setup guide →](https://mcp.directory/clients/vscode) |
+| <img src="https://mcp.directory/clients/windsurf.png" width="32" alt="Windsurf" /> | **Windsurf** | [Setup guide →](https://mcp.directory/clients/windsurf) |
+| <img src="https://mcp.directory/clients/zed.png" width="32" alt="Zed" /> | **Zed** | [Setup guide →](https://mcp.directory/clients/zed) |
+| <img src="https://mcp.directory/clients/chatgpt.png" width="32" alt="ChatGPT" /> | **ChatGPT** | [Setup guide →](https://mcp.directory/clients/chatgpt) |
+| <img src="https://mcp.directory/clients/gemini.png" width="32" alt="Gemini CLI" /> | **Gemini CLI** | [Setup guide →](https://mcp.directory/clients/gemini-cli) |
+| <img src="https://mcp.directory/clients/codex.png" width="32" alt="Codex" /> | **Codex** | [Setup guide →](https://mcp.directory/clients/codex) |
 
 ## Categories
 
@@ -430,9 +476,68 @@ Top 20 of 170 Search & Web servers, ranked by popularity on mcp.directory. [View
 
 **[View all 170 Search & Web servers on mcp.directory →](https://mcp.directory/categories/search-web)**
 
-## Bonus: 8,681 Claude Code Skills, Agent Skills, and Cursor Rules
+## Skills, Rules & Agent Skills
 
-mcp.directory also indexes **8,681 skills**. See [skills.md](skills.md) for the top 50, or browse the full searchable index at [https://mcp.directory/skills](https://mcp.directory/skills).
+mcp.directory also indexes **8,681 skills** — [Claude Code Skills](https://mcp.directory/skills), [Anthropic Agent Skills](https://mcp.directory/skills), and [Cursor Rules](https://mcp.directory/skills) — system prompts and instructions that shape how AI assistants work on your codebase.
+
+### Top 10 skills
+
+| Skill | Description | Author |
+|---|---|---|
+| [flutter-development](https://mcp.directory/skills/flutter-development) | Build beautiful cross-platform mobile apps with Flutter and Dart. Covers widgets, state management with Provider/BLoC, navigation, | aj-geddes |
+| [drawio-diagrams-enhanced](https://mcp.directory/skills/drawio-diagrams-enhanced) | Create professional draw.io (diagrams.net) diagrams in XML format (.drawio files) with integrated PMP/PMBOK methodologies, extensi | jgtolentino |
+| [ui-ux-pro-max](https://mcp.directory/skills/ui-ux-pro-max) | "UI/UX design intelligence. 50 styles, 21 palettes, 50 font pairings, 20 charts, 8 stacks (React, Next.js, Vue, Svelte, SwiftUI, R | nextlevelbuilder |
+| [godot](https://mcp.directory/skills/godot) | This skill should be used when working on Godot Engine projects. It provides specialized knowledge of Godot's file formats (.gd, . | bfollington |
+| [nano-banana-pro](https://mcp.directory/skills/nano-banana-pro) | Generate and edit images using Google's Nano Banana Pro (Gemini 3 Pro Image) API. Use when the user asks to generate, create, edit | garg-aayush |
+| [pdf-to-markdown](https://mcp.directory/skills/pdf-to-markdown) | Convert entire PDF documents to clean, structured Markdown for full context loading. Use this skill when the user wants to extract | aliceisjustplaying |
+| [fastapi-templates](https://mcp.directory/skills/fastapi-templates) | Create production-ready FastAPI projects with async patterns, dependency injection, and comprehensive error handling. Use when bui | wshobson |
+| [comfyui-workflow-builder](https://mcp.directory/skills/comfyui-workflow-builder) | Generates optimized ComfyUI workflows for image generation, editing, and enhancement. Creates JSON workflow files using available  | Snoopiam |
+| [rust-coding-skill](https://mcp.directory/skills/rust-coding-skill) | Guides Claude in writing idiomatic, efficient, well-structured Rust code using proper data modeling, traits, impl organization, ma | UtakataKyosui |
+| [effective-go](https://mcp.directory/skills/effective-go) | Apply Go best practices, idioms, and conventions from golang.org/doc/effective_go. Use when writing, reviewing, or refactoring Go  | openshift |
+
+**[Browse all 8,681 skills →](https://mcp.directory/skills)** · [Top 50 (this repo)](skills.md)
+
+## Submit your MCP server
+
+Built an MCP server? Get it listed and discovered by Claude / Cursor / Claude Code users.
+
+**[Submit at mcp.directory/submit →](https://mcp.directory/submit)**
+
+Approval typically takes under 72 hours. Once accepted, your server appears in this list on the next weekly refresh.
+
+## Comparing servers?
+
+Trying to pick between two MCP servers? **[Use the comparison tool →](https://mcp.directory/compare)** to see install counts, tool counts, languages, last-commit dates, and licenses side-by-side.
+
+## FAQ
+
+**What is the Model Context Protocol (MCP)?**
+MCP is an open standard from Anthropic for connecting AI assistants to tools, files, and APIs. One server works for every MCP-compatible client. [Read the spec →](https://modelcontextprotocol.io)
+
+**How do I install an MCP server?**
+Pick a server from the list above, then follow your client's setup guide. Most servers install with a single `npx` command and a JSON config snippet. [Browse install configs →](https://mcp.directory)
+
+**What's the difference between MCP and a plugin?**
+MCP is a transport-agnostic protocol — one server works for Claude, Cursor, Claude Code, VS Code, and any future MCP-compatible client. Plugins are usually client-specific.
+
+**Are MCP servers safe to install?**
+MCP servers can read/write your data — review what you install. Look for the `Official` classification on mcp.directory and audit the source code on GitHub before granting filesystem or API access.
+
+**Can I build my own MCP server?**
+Yes. Use the [TypeScript SDK](https://github.com/modelcontextprotocol/typescript-sdk) or [Python SDK](https://github.com/modelcontextprotocol/python-sdk). Submit it at [mcp.directory/submit](https://mcp.directory/submit) once it's ready.
+
+**How does mcp.directory rank servers?**
+Primarily by installation count and view count from the directory itself, plus GitHub stars and last-commit recency.
+
+**Is there a public API?**
+Yes — [`/api/v1/servers`](https://mcp.directory/api/v1/servers), [`/api/v1/skills`](https://mcp.directory/api/v1/skills), [`/api/v1/posts`](https://mcp.directory/api/v1/posts). Open, no auth required, JSON.
+
+**What are skills, rules, and agent skills?**
+Curated system prompts and instructions that shape how AI assistants behave — distinct from MCP servers (which expose tools). 8,681 indexed at [mcp.directory/skills](https://mcp.directory/skills).
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=devanshug2307/awesome-mcp-servers&type=Date)](https://star-history.com/#devanshug2307/awesome-mcp-servers&Date)
 
 ## Contributing
 
