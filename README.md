@@ -32,7 +32,7 @@
 <a id="ai-ml"></a>
 ## AI & Machine Learning
 
-Top 20 of 235 AI & Machine Learning servers, ranked by popularity on mcp.directory.
+Top 20 of 235 AI & Machine Learning servers, ranked by popularity on mcp.directory. [View all →](https://mcp.directory/categories/ai-ml)
 
 | Server | Description | Stars | Tools | Language |
 |---|---|---:|---:|---|
@@ -62,7 +62,7 @@ Top 20 of 235 AI & Machine Learning servers, ranked by popularity on mcp.directo
 <a id="analytics-data"></a>
 ## Analytics & Data
 
-Top 20 of 65 Analytics & Data servers, ranked by popularity on mcp.directory.
+Top 20 of 65 Analytics & Data servers, ranked by popularity on mcp.directory. [View all →](https://mcp.directory/categories/analytics-data)
 
 | Server | Description | Stars | Tools | Language |
 |---|---|---:|---:|---|
@@ -92,7 +92,7 @@ Top 20 of 65 Analytics & Data servers, ranked by popularity on mcp.directory.
 <a id="auth-security"></a>
 ## Auth & Security
 
-Top 20 of 74 Auth & Security servers, ranked by popularity on mcp.directory.
+Top 20 of 74 Auth & Security servers, ranked by popularity on mcp.directory. [View all →](https://mcp.directory/categories/auth-security)
 
 | Server | Description | Stars | Tools | Language |
 |---|---|---:|---:|---|
@@ -122,7 +122,7 @@ Top 20 of 74 Auth & Security servers, ranked by popularity on mcp.directory.
 <a id="browser-automation"></a>
 ## Browser Automation
 
-Top 20 of 62 Browser Automation servers, ranked by popularity on mcp.directory.
+Top 20 of 62 Browser Automation servers, ranked by popularity on mcp.directory. [View all →](https://mcp.directory/categories/browser-automation)
 
 | Server | Description | Stars | Tools | Language |
 |---|---|---:|---:|---|
@@ -152,7 +152,7 @@ Top 20 of 62 Browser Automation servers, ranked by popularity on mcp.directory.
 <a id="cloud-infrastructure"></a>
 ## Cloud Infrastructure
 
-Top 20 of 80 Cloud Infrastructure servers, ranked by popularity on mcp.directory.
+Top 20 of 80 Cloud Infrastructure servers, ranked by popularity on mcp.directory. [View all →](https://mcp.directory/categories/cloud-infrastructure)
 
 | Server | Description | Stars | Tools | Language |
 |---|---|---:|---:|---|
@@ -182,7 +182,7 @@ Top 20 of 80 Cloud Infrastructure servers, ranked by popularity on mcp.directory
 <a id="communication"></a>
 ## Communication
 
-Top 20 of 62 Communication servers, ranked by popularity on mcp.directory.
+Top 20 of 62 Communication servers, ranked by popularity on mcp.directory. [View all →](https://mcp.directory/categories/communication)
 
 | Server | Description | Stars | Tools | Language |
 |---|---|---:|---:|---|
@@ -212,7 +212,7 @@ Top 20 of 62 Communication servers, ranked by popularity on mcp.directory.
 <a id="databases"></a>
 ## Databases
 
-Top 20 of 134 Databases servers, ranked by popularity on mcp.directory.
+Top 20 of 134 Databases servers, ranked by popularity on mcp.directory. [View all →](https://mcp.directory/categories/databases)
 
 | Server | Description | Stars | Tools | Language |
 |---|---|---:|---:|---|
@@ -242,7 +242,7 @@ Top 20 of 134 Databases servers, ranked by popularity on mcp.directory.
 <a id="design"></a>
 ## Design
 
-1 Design server.
+1 Design server. [Browse on mcp.directory →](https://mcp.directory/categories/design)
 
 | Server | Description | Stars | Tools | Language |
 |---|---|---:|---:|---|
@@ -253,7 +253,7 @@ Top 20 of 134 Databases servers, ranked by popularity on mcp.directory.
 <a id="developer-tools"></a>
 ## Developer Tools
 
-Top 20 of 480 Developer Tools servers, ranked by popularity on mcp.directory.
+Top 20 of 480 Developer Tools servers, ranked by popularity on mcp.directory. [View all →](https://mcp.directory/categories/developer-tools)
 
 | Server | Description | Stars | Tools | Language |
 |---|---|---:|---:|---|
@@ -283,7 +283,7 @@ Top 20 of 480 Developer Tools servers, ranked by popularity on mcp.directory.
 <a id="file-systems"></a>
 ## File Systems
 
-Top 20 of 41 File Systems servers, ranked by popularity on mcp.directory.
+Top 20 of 41 File Systems servers, ranked by popularity on mcp.directory. [View all →](https://mcp.directory/categories/file-systems)
 
 | Server | Description | Stars | Tools | Language |
 |---|---|---:|---:|---|
@@ -313,7 +313,7 @@ Top 20 of 41 File Systems servers, ranked by popularity on mcp.directory.
 <a id="finance"></a>
 ## Finance
 
-Top 20 of 108 Finance servers, ranked by popularity on mcp.directory.
+Top 20 of 108 Finance servers, ranked by popularity on mcp.directory. [View all →](https://mcp.directory/categories/finance)
 
 | Server | Description | Stars | Tools | Language |
 |---|---|---:|---:|---|
@@ -343,7 +343,7 @@ Top 20 of 108 Finance servers, ranked by popularity on mcp.directory.
 <a id="other"></a>
 ## Other
 
-Top 20 of 213 Other servers, ranked by popularity on mcp.directory.
+Top 20 of 213 Other servers, ranked by popularity on mcp.directory. [View all →](https://mcp.directory/categories/other)
 
 | Server | Description | Stars | Tools | Language |
 |---|---|---:|---:|---|
@@ -373,7 +373,7 @@ Top 20 of 213 Other servers, ranked by popularity on mcp.directory.
 <a id="productivity"></a>
 ## Productivity
 
-Top 20 of 277 Productivity servers, ranked by popularity on mcp.directory.
+Top 20 of 277 Productivity servers, ranked by popularity on mcp.directory. [View all →](https://mcp.directory/categories/productivity)
 
 | Server | Description | Stars | Tools | Language |
 |---|---|---:|---:|---|
@@ -403,7 +403,7 @@ Top 20 of 277 Productivity servers, ranked by popularity on mcp.directory.
 <a id="search-web"></a>
 ## Search & Web
 
-Top 20 of 170 Search & Web servers, ranked by popularity on mcp.directory.
+Top 20 of 170 Search & Web servers, ranked by popularity on mcp.directory. [View all →](https://mcp.directory/categories/search-web)
 
 | Server | Description | Stars | Tools | Language |
 |---|---|---:|---:|---|
