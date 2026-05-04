@@ -1,15 +1,14 @@
+<p align="center">
+  <a href="https://mcp.directory">
+    <img src="https://mcp.directory/og-default.png" alt="mcp.directory" width="800" />
+  </a>
+</p>
+
 # Awesome MCP Servers
 
-> 2,002 Model Context Protocol servers for Claude, Cursor, Claude Code, and any MCP client. Auto-updated weekly from [mcp.directory](https://mcp.directory).
+> 2,000+ Model Context Protocol servers for Claude, Cursor, Claude Code, and any MCP client. Auto-updated weekly from [mcp.directory](https://mcp.directory).
 
 [**Visit mcp.directory →**](https://mcp.directory) for the searchable interface, one-click install configs, tool inspectors, and skill cookbooks.
-
-## Other MCP directories
-
-We're not the only directory — pick what works for you:
-
-- [Glama](https://glama.ai/mcp/servers) · [Smithery](https://smithery.ai) · [PulseMCP](https://www.pulsemcp.com) · [mcp.so](https://mcp.so) · [mcpservers.org](https://mcpservers.org)
-- [Official MCP Registry](https://registry.modelcontextprotocol.io) · [Anthropic's reference servers](https://github.com/modelcontextprotocol/servers)
 
 ## Categories
 
